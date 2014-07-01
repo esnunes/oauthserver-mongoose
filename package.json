@@ -1,6 +1,6 @@
 {
   "name": "oauthserver-mongoose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oauthserver mongoose-based model",
   "main": "lib/index.js",
   "repository": {
