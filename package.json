@@ -1,0 +1,27 @@
+{
+  "name": "oauthserver-mongoose",
+  "version": "1.0.0",
+  "description": "oauthserver mongoose-based model",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esnunes/oauthserver-mongoose.git"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "mongoose"
+  ],
+  "author": {
+    "name": "Eduardo Nunes",
+    "email": "esnunes@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://github.com/esnunes/oauthserver-mongoose/raw/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/esnunes/oauthserver-mongoose/issues"
+  },
+  "homepage": "https://github.com/esnunes/oauthserver-mongoose"
+}
